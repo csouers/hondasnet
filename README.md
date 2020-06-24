@@ -1,7 +1,7 @@
 # hondasnet
-Reverse engineering Honda's S-NET protocol
-
-### Data line info
+### Reverse engineering Honda's S-NET protocol
+Honda uses a single-wire UART formatted data line for the immobilizer in their vehicles. The data line appears to b 
+#### Data line info
 Shortest period: 100-101us
 Baud rate: 10k
 Voltage Range: 0-5v with negative voltage spikes on falling edge (different module sending this?)
@@ -9,11 +9,11 @@ Voltage Range: 0-5v with negative voltage spikes on falling edge (different modu
 #### How to calculate the 7 Byte Packet Checksum:
 b6 = mod(sum(b0:b5),-256)*-1
 
-### Todo:
+#### Todo:
 - What modules are sending what?
 
 
-### Example session sequence:
+## Example session sequence:
 
 #### Init
 1.  93 46 FF FF < no checksum?
@@ -39,5 +39,5 @@ b6 = mod(sum(b0:b5),-256)*-1
 | 95 | 07 | 2E | 91 | 1F | 85 | 01 |
 | 95 | 07 | 1A | 91 | 1F | 85 | 15 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjkyODA4NSwtMTU4MjU0MzA2Nl19
+eyJoaXN0b3J5IjpbMTM5OTY5NDUwMSwtMTU4MjU0MzA2Nl19
 -->
