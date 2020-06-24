@@ -13,8 +13,6 @@ b6 = mod(sum(b0:b5),-256)*-1
 #### Todo:
 - What modules are sending what?
 - RE both packet types
-- RE security and tx to the car
-
 
 ## Example session sequence:
 
@@ -42,6 +40,5 @@ b6 = mod(sum(b0:b5),-256)*-1
 | 95 | 07 | 2E | 91 | 1F | 85 | 01 |
 | 95 | 07 | 1A | 91 | 1F | 85 | 15 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMTc2ODk0ODQsLTE1ODI1NDMwNjZdfQ
-==
+eyJoaXN0b3J5IjpbMTU2MTMzODI2MywtMTU4MjU0MzA2Nl19
 -->
