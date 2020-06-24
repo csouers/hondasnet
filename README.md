@@ -31,6 +31,15 @@ Constant for remainder of the session
 
 ## Notes
 95 07 2E 91 1F 85 01
+95 07 1A 91 1F 85 15
+
+| x | x |
+| y | y |
+|x  | x |
+|--|--|
+| x |x  |
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5ODEyMDYzNF19
+eyJoaXN0b3J5IjpbMTE1MDUzMjAzMV19
 -->
