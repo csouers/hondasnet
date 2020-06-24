@@ -4,10 +4,9 @@ Reverse engineering Honda's S-NET protocol
 ### Data line info
 Shortest period: 100-101us
 Baud rate: 10k
-Voltage Range for packet A: 0-5
-^^                       B: 0-5 with negative voltage spikes on falling edge (different module sending this?)
+Voltage Range: 0-5v with negative voltage spikes on falling edge (different module sending this?)
 
-7 Byte Packet Checksum:
+#### How to calculate the 7 Byte Packet Checksum:
 b6 = mod(sum(b0:b5),-256)*-1
 
 ### Todo:
@@ -27,8 +26,8 @@ b6 = mod(sum(b0:b5),-256)*-1
 
 #### Loop
 Constant for remainder of the session
-6a. 59 07 BB FC C5 5E C6
-7a. 95 07 1A 91 1F 85 15
+6. 59 07 BB FC C5 5E C6
+7. 95 07 1A 91 1F 85 15
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDYwODM0Ml19
+eyJoaXN0b3J5IjpbNjY3NzE0NzkwXX0=
 -->
