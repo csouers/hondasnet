@@ -24,7 +24,7 @@ b6 = mod(sum(b0:b5),-256)*-1
 #### Key exchange?
 5. 95 07 2E 91 1F 85 01 < last 4 bytes always vary
 
-#### Loop - Constant for remainder of the session
+#### Loop - Constant for this session
 6. 59 07 BB FC C5 5E C6
 7. 95 07 1A 91 1F 85 15
 
@@ -36,5 +36,5 @@ Example pair:
 | 95 | 07 | 2E | 91 | 1F | 85 | 01 |
 | 95 |07 |1A |91 |1F |85 |15|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNTI5ODEwMF19
+eyJoaXN0b3J5IjpbMzIwNzM2MjcxXX0=
 -->
