@@ -33,13 +33,11 @@ Constant for remainder of the session
 95 07 2E 91 1F 85 01
 95 07 1A 91 1F 85 15
 
-| x | x |
-| y | y |
-|x  | x |
-|--|--|
-| x |x  |
+| ID? |  |  |  |  |  |  |  
+|--|--|--|--|--|--|-
+| 95 | 07 | 2E | 91 | 1F | 85 | 01 |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE1MDUzMjAzMV19
+eyJoaXN0b3J5IjpbLTgxNTU4Mzg1N119
 -->
