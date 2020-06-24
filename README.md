@@ -34,11 +34,10 @@ b6 = mod(sum(b0:b5),-256)*-1
 
 7 Byte:
 
-| ID? |  |  |  |  |  						|Checksum (see above)|  
+| ID? |  |  |  |  |  		  |Checksum (see above)|  
 | -- | -- | -- | -- | -- | -- | -- |
 | 95 | 07 | 2E | 91 | 1F | 85 | 01 |
 | 95 | 07 | 1A | 91 | 1F | 85 | 15 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzE5OTU5NzksLTE1ODI1NDMwNjZdfQ
-==
+eyJoaXN0b3J5IjpbMTk1MjkyODA4NSwtMTU4MjU0MzA2Nl19
 -->
