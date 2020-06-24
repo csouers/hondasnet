@@ -28,6 +28,9 @@ b6 = mod(sum(b0:b5),-256)*-1
 Constant for remainder of the session
 6. 59 07 BB FC C5 5E C6
 7. 95 07 1A 91 1F 85 15
+
+## Notes
+95 07 2E 91 1F 85 01
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY3NzE0NzkwXX0=
+eyJoaXN0b3J5IjpbLTY5ODEyMDYzNF19
 -->
