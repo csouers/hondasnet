@@ -33,11 +33,11 @@ Constant for remainder of the session
 95 07 2E 91 1F 85 01
 95 07 1A 91 1F 85 15
 
-| ID? |  |  |  |  |  |  |  
-|--|--|--|--|--|--|-
+| ID? |  |  |  |  |  |Checksum (see above)|  
+| -- | -- | -- | -- | -- | -- | -- |
 | 95 | 07 | 2E | 91 | 1F | 85 | 01 |
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNTU4Mzg1N119
+eyJoaXN0b3J5IjpbLTE5NTI3MDAyODRdfQ==
 -->
