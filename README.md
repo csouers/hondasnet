@@ -21,7 +21,7 @@ b6 = mod(sum(b0:b5),-256)*-1
 3.  59 07 BB 77 7A 77 7D
 4.  59 07 BB 77 71 77 86 < seems to repeat until the sending module receives a response because I've seen occur 2-3x depending on the session.
 
-#### Key exchange?
+#### Setup packet?
 5. 95 07 2E 91 1F 85 01 < last 4 bytes always vary
 
 #### Loop - Constant for this session
@@ -36,5 +36,5 @@ Example pair:
 | 95 | 07 | 2E | 91 | 1F | 85 | 01 |
 | 95 |07 |1A |91 |1F |85 |15|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwNzM2MjcxXX0=
+eyJoaXN0b3J5IjpbNDU4NTMzOTc0XX0=
 -->
