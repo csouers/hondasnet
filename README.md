@@ -34,7 +34,7 @@ Example pair:
 | ID? |  |  |  |  |  |Checksum (see above)|  
 | -- | -- | -- | -- | -- | -- | -- |
 | 95 | 07 | 2E | 91 | 1F | 85 | 01 |
-| 95 |07 |1A |91 |1F |85 |15|
+| 95 | 07 | 1A | 91 | 1F | 85 | 15 |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2MTYwMzMzOF19
+eyJoaXN0b3J5IjpbLTE1ODI1NDMwNjZdfQ==
 -->
