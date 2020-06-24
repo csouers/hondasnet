@@ -1,6 +1,7 @@
 # hondasnet
 Reverse engineering Honda's S-NET protocol
 
+## Data line info
 Shortest period: 100-101us
 Baud rate: 10k
 Voltage Range for packet A: 0-5
@@ -26,3 +27,6 @@ Key exchange?:
 Loop:
 6a. 59 07 BB FC C5 5E C6 < These two packets are consistent for the session
 7a. 95 07 1A 91 1F 85 15 < These two packets are consistent for the session
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExOTA0NjMzMzJdfQ==
+-->
