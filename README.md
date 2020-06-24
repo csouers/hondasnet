@@ -30,14 +30,12 @@ Constant for remainder of the session
 7. 95 07 1A 91 1F 85 15
 
 ## Notes
-95 07 2E 91 1F 85 01
-95 07 1A 91 1F 85 15
+Example pair:
 
 | ID? |  |  |  |  |  |Checksum (see above)|  
 | -- | -- | -- | -- | -- | -- | -- |
 | 95 | 07 | 2E | 91 | 1F | 85 | 01 |
-
-
+| 95 |07 |1A |91 |1F |85 |15|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTI3MDAyODRdfQ==
+eyJoaXN0b3J5IjpbLTExODY0MzQ4MTddfQ==
 -->
