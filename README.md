@@ -1,4 +1,4 @@
-# hondasnet
+# honda s-net
 ### Reverse engineering Honda's S-NET protocol
 In example of the 2017 Honda Civic Hatchback (and other models of similar architecture), the vehicle uses a single-wire 5V UART formatted data line for the immobilizer in their vehicles. The data line appears to be used exclusively between the BCM (body) and ECM (engine). Without this line, the engine can start, but will not stay running.
 
