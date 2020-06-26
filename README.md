@@ -3,8 +3,8 @@
 In example of the 2017 Honda Civic Hatchback (and other models of similar architecture), the vehicle uses a single-wire 5V UART formatted data line for the immobilizer in their vehicles. The data line appears to be used exclusively between the BCM (body) and ECM (engine). Without this line, the engine can start, but will not stay running.
 
 #### Data line info
-Shortest period: 100-101us
-Baud rate: 10k
+Shortest period: 100-101us\
+Baud rate: 10k\
 Voltage Range: 0-5v with negative voltage spikes on falling edge (different module sending this?)
 
 #### How to calculate the 7 Byte Packet Checksum:
